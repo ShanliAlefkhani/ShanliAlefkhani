@@ -1,4 +1,12 @@
+<h1 align="center">Hey! I'm Shanli</h1>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" />
+</p>
+
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ShanliAlefkhani&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
+ </p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/ShanliAlefkhani/ShanliAlefkhani)]()
 

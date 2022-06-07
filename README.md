@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/ShanliAlefkhani/ShanliAlefkhani)](https://josedromero.com)
+[![Visits Badge](https://badges.pufler.dev/visits/ShanliAlefkhani/ShanliAlefkhani)]()
 
 <!--
 **ShanliAlefkhani/ShanliAlefkhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

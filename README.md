@@ -1,3 +1,5 @@
+<img src="https://github-profile-trophy.vercel.app/?username=ShanliAlefkhani&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
+
 [![Visits Badge](https://badges.pufler.dev/visits/ShanliAlefkhani/ShanliAlefkhani)]()
 
 <!--

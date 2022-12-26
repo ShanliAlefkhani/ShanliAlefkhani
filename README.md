@@ -2,7 +2,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=ShanliAlefkhani&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/ShanliAlefkhani/ShanliAlefkhani)]()
+<!--[![Visits Badge](https://badges.pufler.dev/visits/ShanliAlefkhani/ShanliAlefkhani)]()-->
 
 <!--
 **ShanliAlefkhani/ShanliAlefkhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
